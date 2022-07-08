@@ -1,1 +1,1 @@
-# command-dotnet-cli
+# Commands for .NET CLI
